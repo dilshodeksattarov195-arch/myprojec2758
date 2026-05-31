@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesalidate",
+        "uuid": 5160218,
+        "checksum": "ov9ftc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
